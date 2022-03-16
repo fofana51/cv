@@ -1,0 +1,57 @@
+#premier{
+    display: flex;
+
+        }
+#pre{
+    display:flex
+    }
+#deuxieme{
+    height: auto;
+    width: 100px;
+    margin: 20px;
+    margin-left: 14em;
+    margin-top: 12px;
+         }
+.deux li {
+    list-style:  none;
+         }
+.quatre{
+    border:0.5px solid grey;
+    height:0px;
+    margin-right: 48%;
+       }
+.cinq{
+    display: flex;
+     }
+.six{
+    margin-left: 8em;
+    }
+.sept{
+    margin-left: 2em;
+    margin-top: 1px;
+    margin-bottom: -10px;
+    font-size: 100%;
+    font-style: normal;
+}
+.huit{
+    
+}
+#neuf{
+    margin-left: 2em;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    font-size: 100%;
+    font-style: normal;   
+}
+#dix{
+    margin-left: 2em;
+}
+#post{
+    margin-left: 7em;
+    margin-top: -4px; 
+    font-family: Arial, Helvetica, sans-serif
+     }
+#dernier{
+    padding-left: 0;
+    margin-right: 20em;
+}
